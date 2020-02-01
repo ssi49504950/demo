@@ -3,4 +3,8 @@
 
 adding new line
 adding 2nd line
+<<<<<<< HEAD
 adding 4th line
+=======
+adding 3 line
+>>>>>>> bery-bad
